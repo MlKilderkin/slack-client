@@ -7,6 +7,7 @@
         "name": "Stephen Coakley",
         "email": "me@stephencoakley.com"
     }],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.5",
         "mpociot/phpws": "^2.0",
